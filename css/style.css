@@ -50,7 +50,7 @@ body {
 
 .homes {
   background-color: #101d2c;
-  grid-column: full-start / full-end; }
+  grid-column: center-start / center-end; }
 
 .gallery {
   background-color: #54483a;
